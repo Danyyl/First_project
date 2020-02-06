@@ -1,0 +1,35 @@
+{
+  "ru": {
+    "translation": {
+      "username": "Ім'я користувача",
+      "password": "Пароль",
+      "email": "Пошта",
+      "first_name": "Ім'я",
+      "last_name": "Прізвище",
+      "registration": "Реєстрація",
+      "sign_in": "Вхід",
+      "autorization": "Авторизація",
+      "home": "Головна",
+      "plots": "Землі",
+      "my_services": "Мої Послуги",
+      "all_services": "Усі послуги",
+      "machines": "Машини",
+      "get_report": "Отримати відповідь",
+      "edit": "Редагувати",
+      "save": "Зберегти",
+      "delete": "Видалити",
+      "Add": "Додати",
+      "place":"Місце",
+      "profile": "Профіль",
+      "type": "Тип",
+      "field": "Заповненість",
+      "culture": "Культура",
+      "progress": "Стан",
+      "name": "Назва",
+      "use_service": "Використати послугу",
+      "info": "Інформація",
+      "cost": "Ціна",
+      "user": "Ім'я користувача"
+    }
+  }
+}
